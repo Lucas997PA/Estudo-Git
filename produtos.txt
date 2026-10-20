@@ -1,0 +1,9 @@
+<button block variant="outline" onClick={() => GenUI.copy("# Estudo-Git\n\nMeu laboratório para aprender Git com VS Code.\n\n## Funcionalidades\n\n- Cadastro de produtos\n- Consulta de produtos\n- Controle de estoque")}> <icon name="copy" size="sm" inline /> Copiar conteúdo</button>
+</box>
+
+Agora crie outro arquivo, `produtos.txt`, com este conteúdo:
+
+```text
+001 - Teclado - 10 unidades
+002 - Mouse - 15 unidades
+003 - Monitor - 5 unidades
