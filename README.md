@@ -1,2 +1,1 @@
-# Estudo-Git
-teste1 teste2
+Laboratório oficial de Git e VS Code.
